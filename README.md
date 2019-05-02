@@ -1,1 +1,6 @@
-# customer_reviews-ML-
+# customer_reviews-ML
+
+web application using FLASK
+
+Natural Language Processing
+
